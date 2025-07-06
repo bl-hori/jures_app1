@@ -1,0 +1,11 @@
+{
+  "name": "@my-design-system/cli",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "echo \"Error: no build script specified for cli\"",
+    "lint": "echo \"Error: no lint script specified for cli\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

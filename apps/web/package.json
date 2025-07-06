@@ -1,0 +1,12 @@
+{
+  "name": "web",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo \"Error: no dev script specified for web\"",
+    "build": "echo \"Error: no build script specified for web\"",
+    "lint": "echo \"Error: no lint script specified for web\""
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
